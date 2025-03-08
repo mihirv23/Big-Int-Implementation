@@ -88,7 +88,6 @@ Multiplication result is 121932631356500531591068431581285008748302990
 - Optimize multiplication using Karatsuba's algorithm.
 - Improve overflow handling by dynamically allocating memory.
 
-## License
-This project is open-source and free to use.
+
 
 
